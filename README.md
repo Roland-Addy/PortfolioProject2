@@ -4,9 +4,9 @@ In order to stay competitive, it is imperative companies keep pace with changing
 One of the ways to achieve this goal, is to identify future skills requirement.
 This project seeks to analyze future skills requirement for a global IT and business consulting services firm
 The project seeks to determine:
-• The top programming skills in demand
-• The top database skills in demand
-• The top web frames and platforms
+* The top programming skills in demand
+* The top database skills in demand
+* The top web frames and platforms
 
 ##Methodology
 
