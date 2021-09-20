@@ -10,13 +10,12 @@ The project seeks to determine:
 
 ##Methodology
 
-Data was obtained from job postings, training portals and surveys using APIs and Web scraping.
-• The data was explored to better understanding on what
-needed to be done.
-• The data was then prepared for analysis by identifying and
-removing duplicate values, identifying and imputing
-missing values and normalizing data.
-• Exploratory data analysis was then performed to derive
-insights to the question at hand.
-• A Dashboard was created using IBM Cognos to display the
-findings.
+* Data was obtained from job postings, training portals and surveys using APIs and Web scraping.
+* The data was explored to better understanding on what needed to be done.
+* The data was then prepared for analysis by identifying and removing duplicate values, identifying and imputing missing values and normalizing data.
+* Exploratory data analysis was then performed to derive insights to the question at hand.
+* A Dashboard was created using IBM Cognos to display the findings.
+
+Below is the link to the data visualizations via IBM Cognos:
+
+
