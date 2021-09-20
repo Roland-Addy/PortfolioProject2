@@ -16,6 +16,6 @@ The project seeks to determine:
 * Exploratory data analysis was then performed to derive insights to the question at hand.
 * A Dashboard was created using IBM Cognos to display the findings.
 
-Below is the link to the data visualizations via IBM Cognos:
+Below is the link to the data visualizations via IBM Cognos:[CDE Link](https://dataplatform.cloud.ibm.com/dashboards/d2b32761-387c-4a19-9e05-be5e58377bf5/view/4e24f40111b3338963bdd0e407cc2c037f302358e7bb855081857b490f692097f03a1091c82d4b59db125360f7be160f9d)
 
 
